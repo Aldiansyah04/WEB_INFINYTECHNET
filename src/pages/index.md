@@ -1,50 +1,31 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: INFINYTECH.NET
+image: /img/TEKNOLOGI.jpg
+heading: Keutungan jika menggunakan layanan kami
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: SELAMAT DATANG DI WEBSITE INFINYTECHNET
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Selamat datang di Infinytech Net, solusi terpercaya untuk kebutuhan jaringan Anda! Kami menghadirkan layanan profesional di bidang Network Engineering, penyediaan domain DLL. Memastikan konektivitas yang stabil, aman, dan optimal untuk bisnis maupun kebutuhan personal Anda.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Infinytech Net menawarkan layanan jaringan yang andal dengan performa maksimal, keamanan data terjamin, serta dukungan profesional yang siap membantu kapan saja. Kami menyediakan solusi lengkap, mulai dari pengelolaan jaringan hingga registrasi domain, dengan harga kompetitif untuk memastikan kebutuhan Anda terpenuhi secara efisien.
+subdescription:
+  Selain itu, kami selalu mengutamakan fleksibilitas layanan yang dapat disesuaikan dengan kebutuhan spesifik setiap klien. Dengan teknologi terkini dan pendekatan yang inovatif, kami memastikan setiap solusi yang kami tawarkan dapat meningkatkan efisiensi operasional Anda. Kepuasan pelanggan adalah prioritas utama kami, sehingga Anda bisa fokus mengembangkan bisnis tanpa perlu khawatir soal infrastruktur IT.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pemelihara.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Managed IT Services – Pemeliharaan dan pengelolaan infrastruktur IT perusahaan, termasuk server, cloud, dan keamanan siber.
+    - image: /img/cloud.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Cloud Computing Solutions – Penyediaan layanan cloud seperti VPS, hosting web, dan cloud storage.
+    - image: /img/cyber.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Cybersecurity & Data Protection – Perlindungan terhadap serangan siber, firewall, enkripsi data, dan keamanan jaringan.
+    - image: /img/consulting.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        IT Consulting & System Integration – Konsultasi teknologi untuk membantu bisnis mengoptimalkan sistem IT mereka.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
