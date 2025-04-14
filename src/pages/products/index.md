@@ -1,101 +1,73 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Layanan Kami
+image: /img/layanan.jpg
+heading: Solusi IT Terpadu Untuk Kebutuhan Anda
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Infinytech Net adalah penyedia layanan teknologi yang siap membantu bisnis dan individu membangun sistem IT yang andal. Kami menawarkan berbagai solusi seperti network engineering, penyediaan domain, keamanan jaringan, hingga konsultasi dan manajemen sistem. Kami percaya bahwa layanan yang baik dimulai dari pemahaman yang dalam terhadap kebutuhan klien.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kami menyediakan layanan network engineering mulai dari perencanaan, instalasi, hingga manajemen jaringan untuk berbagai skala bisnis. Infrastruktur jaringan yang optimal akan meningkatkan performa dan efisiensi operasional Anda.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Butuh nama domain profesional untuk bisnis Anda? Kami siap membantu proses pendaftaran, pengelolaan, hingga perpanjangan domain agar bisnis Anda tetap eksis dan mudah ditemukan secara online.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Ingin membangun sistem IT tapi bingung mulai dari mana? Tim kami siap memberikan konsultasi teknis untuk merancang solusi yang sesuai dengan kebutuhan Anda—baik dari sisi perangkat keras, software, maupun strategi IT.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami juga menyediakan layanan manajemen server dan data center, termasuk monitoring, backup otomatis, dan keamanan tingkat lanjut. Jaga kelangsungan layanan Anda dengan sistem yang selalu aktif dan terproteksi.
+  heading: Apa yang kami tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Infinytech Net hadir dengan berbagai solusi teknologi informasi untuk mendukung transformasi digital bisnis Anda. Kami berkomitmen memberikan layanan yang handal, fleksibel, dan dikembangkan sesuai dengan kebutuhan klien.
 main:
-  heading: Great coffee with no compromises
+  heading: Layanan tanpa kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami percaya bahwa layanan IT harus dirancang dengan standar tinggi, transparan, dan terukur. Setiap solusi kami dibangun berdasarkan analisis kebutuhan, pemilihan teknologi terbaik, dan pengujian menyeluruh untuk memastikan hasil optimal.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Instalasi kabel jaringan di dalam ruang server
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: tim IT sedang berdiskusi tentang ddesain jaringan
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Representasi visual layanan cloud dan domain
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Rahmat Wijaya
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Layanannya sangat profesional dan responsif. Jaringan kantor kami sekarang jauh lebih stabil dan aman.
+  - author: Citra Lestari
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Terima kasih Infinytech Net! Proses pengelolaan domain dan konsultasi IT-nya sangat membantu saat kami memulai bisnis online.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Paket layanan bulanan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kami menyediakan layanan berbasis langganan untuk memudahkan Anda mendapatkan dukungan teknis berkala. Pilih paket sesuai kebutuhan bisnis Anda dan nikmati layanan profesional tanpa repot.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Cocok untuk UMKM dan startup dengan kebutuhan dasar.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Pemeliharaan jaringan ringan
+        - Bantuan domain & DNS
+        - Konsultasi bulanan 1x
+      plan: Basic
+      price: '250.000'
+    - description: Ideal untuk bisnis berkembang dengan infrastruktur yang mulai kompleks.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Dukungan jaringan penuh
+        - Manajemen domain & server
+        - Konsultasi 2x per bulan
+      plan: Profesional
+      price: '500.000'
+    - description: Untuk kebutuhan khusus dan dukungan penuh 24/7.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Layanan custom sesuai kebutuhan
+        - Manajemen proyek IT
+        - Dukungan teknis nonstop
+      plan: Enterprise
+      price: 'Kustom'
 ---
