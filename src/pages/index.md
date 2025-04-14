@@ -7,7 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: SELAMAT DATANG DI WEBSITE INFINYTECHNET
   description: >
-    Selamat datang di Infinytech Net, solusi terpercaya untuk kebutuhan jaringan Anda! Kami menghadirkan layanan profesional di bidang Network Engineering, penyediaan domain DLL. Memastikan konektivitas yang stabil, aman, dan optimal untuk bisnis maupun kebutuhan personal Anda.
+    Selamat datang di Infinytech Net, solusi terpercaya untuk kebutuhan jaringan Anda! Kami menghadirkan layanan profesional di bidang Network Engineering, penyediaan domain DLL. Memastikan konektivitas yang stabil, aman, dan optimal untuk bisnis maupun kebutuhan.
 description: >-
   Infinytech Net menawarkan layanan jaringan yang andal dengan performa maksimal, keamanan data terjamin, serta dukungan profesional yang siap membantu kapan saja. Kami menyediakan solusi lengkap, mulai dari pengelolaan jaringan hingga registrasi domain, dengan harga kompetitif untuk memastikan kebutuhan Anda terpenuhi secara efisien.
 subdescription:
