@@ -3,7 +3,7 @@ templateKey: index-page
 title: INFINYTECH.NET
 image: /img/TEKNOLOGI.jpg
 heading: Keutungan jika menggunakan layanan kami
-subheading: Support sustainable farming while enjoying a cup
+subheading: 
 mainpitch:
   title: SELAMAT DATANG DI WEBSITE INFINYTECHNET
   description: >
@@ -14,7 +14,7 @@ subdescription:
   Selain itu, kami selalu mengutamakan fleksibilitas layanan yang dapat disesuaikan dengan kebutuhan spesifik setiap klien. Dengan teknologi terkini dan pendekatan yang inovatif, kami memastikan setiap solusi yang kami tawarkan dapat meningkatkan efisiensi operasional Anda. Kepuasan pelanggan adalah prioritas utama kami, sehingga Anda bisa fokus mengembangkan bisnis tanpa perlu khawatir soal infrastruktur IT.
 intro:
   blurbs:
-    - image: /img/pemelihara.png
+    - image: /img/pemelihara.jpg
       text: >
         Managed IT Services – Pemeliharaan dan pengelolaan infrastruktur IT perusahaan, termasuk server, cloud, dan keamanan siber.
     - image: /img/cloud.png

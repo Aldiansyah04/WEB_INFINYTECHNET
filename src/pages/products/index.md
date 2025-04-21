@@ -8,16 +8,16 @@ description: >-
   Infinytech Net adalah penyedia layanan teknologi yang siap membantu bisnis dan individu membangun sistem IT yang andal. Kami menawarkan berbagai solusi seperti network engineering, penyediaan domain, keamanan jaringan, hingga konsultasi dan manajemen sistem. Kami percaya bahwa layanan yang baik dimulai dari pemahaman yang dalam terhadap kebutuhan klien.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/menyediakan.jpg
       text: >
         Kami menyediakan layanan network engineering mulai dari perencanaan, instalasi, hingga manajemen jaringan untuk berbagai skala bisnis. Infrastruktur jaringan yang optimal akan meningkatkan performa dan efisiensi operasional Anda.
-    - image: /img/coffee-gear.png
+    - image: /img/namadomi.webp
       text: >
         Butuh nama domain profesional untuk bisnis Anda? Kami siap membantu proses pendaftaran, pengelolaan, hingga perpanjangan domain agar bisnis Anda tetap eksis dan mudah ditemukan secara online.
-    - image: /img/tutorials.png
+    - image: /img/mulaiit.webp
       text: >
         Ingin membangun sistem IT tapi bingung mulai dari mana? Tim kami siap memberikan konsultasi teknis untuk merancang solusi yang sesuai dengan kebutuhan Anda—baik dari sisi perangkat keras, software, maupun strategi IT.
-    - image: /img/meeting-space.png
+    - image: /img/manajemenserver.webp
       text: >
         Kami juga menyediakan layanan manajemen server dan data center, termasuk monitoring, backup otomatis, dan keamanan tingkat lanjut. Jaga kelangsungan layanan Anda dengan sistem yang selalu aktif dan terproteksi.
   heading: Apa yang kami tawarkan
@@ -29,13 +29,13 @@ main:
     Kami percaya bahwa layanan IT harus dirancang dengan standar tinggi, transparan, dan terukur. Setiap solusi kami dibangun berdasarkan analisis kebutuhan, pemilihan teknologi terbaik, dan pengujian menyeluruh untuk memastikan hasil optimal.
   image1:
     alt: Instalasi kabel jaringan di dalam ruang server
-    image: /img/products-grid3.jpg
+    image: /img/manajemenkabelserver.png
   image2:
     alt: tim IT sedang berdiskusi tentang ddesain jaringan
-    image: /img/products-grid2.jpg
+    image: /img/diskusitimit.webp
   image3:
     alt: Representasi visual layanan cloud dan domain
-    image: /img/products-grid1.jpg
+    image: /img/visuallayanan.jpg
 testimonials:
   - author: Rahmat Wijaya
     quote: >-
@@ -43,7 +43,7 @@ testimonials:
   - author: Citra Lestari
     quote: >-
       Terima kasih Infinytech Net! Proses pengelolaan domain dan konsultasi IT-nya sangat membantu saat kami memulai bisnis online.
-full_image: /img/products-full-width.jpg
+full_image: /img/itgambarwide.jpg
 pricing:
   heading: Paket layanan bulanan
   description: >-
