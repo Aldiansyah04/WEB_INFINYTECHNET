@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="INFINYTECHNET"
             style={{ width: "15em", height: "5em" }} //ukuran logo
           />
         </div>
@@ -39,7 +39,7 @@ const Footer = () => {
                         Products
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
@@ -53,13 +53,13 @@ const Footer = () => {
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
-                  <ul className="menu-list">
+                  {/* <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
@@ -70,7 +70,7 @@ const Footer = () => {
                         Contact
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </section>
               </div>
               <div className="column is-4 social">
