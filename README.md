@@ -3,6 +3,10 @@
 link hasil nya uwu
 https://infinytechnet.netlify.app/
 
+link nyomot web orang 
+git clone https://github.com/decaporg/gatsby-starter-decap-cms
+
+
 
 
 # Gatsby + Decap CMS Starter
@@ -33,7 +37,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Prerequisites
 
-- Minimal Node.js version 14.15.0
+- Minimal Node.js version 18.2.7
 - [Gatsby CLI](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
 - [Netlify CLI](https://github.com/netlify/cli)
 
