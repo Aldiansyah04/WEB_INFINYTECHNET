@@ -5,7 +5,7 @@ title: Layanan Kami
 image: /img/layanan.jpg
 heading: Solusi IT Terpadu Untuk Kebutuhan Anda
 description: >-
-  Infinytech Net adalah penyedia layanan teknologi yang siap membantu bisnis dan individu membangun sistem IT yang andal. Kami menawarkan berbagai solusi seperti network engineering, penyediaan domain, keamanan jaringan, hingga konsultasi dan manajemen sistem. Kami percaya bahwa layanan yang baik dimulai dari pemahaman yang dalam terhadap kebutuhan klien.
+  InfinytechNet adalah penyedia layanan teknologi yang siap membantu bisnis dan individu membangun sistem IT yang andal. Kami menawarkan berbagai solusi seperti network engineering, penyediaan domain, keamanan jaringan, hingga konsultasi dan manajemen sistem. Kami percaya bahwa layanan yang baik dimulai dari pemahaman yang dalam terhadap kebutuhan klien.
 intro:
   blurbs:
     - image: /img/menyediakan.jpg
@@ -22,7 +22,7 @@ intro:
         Kami juga menyediakan layanan manajemen server dan data center, termasuk monitoring, backup otomatis, dan keamanan tingkat lanjut. Jaga kelangsungan layanan Anda dengan sistem yang selalu aktif dan terproteksi.
   heading: Apa yang kami tawarkan
   description: >
-    Infinytech Net hadir dengan berbagai solusi teknologi informasi untuk mendukung transformasi digital bisnis Anda. Kami berkomitmen memberikan layanan yang handal, fleksibel, dan dikembangkan sesuai dengan kebutuhan klien.
+    InfinytechNet hadir dengan berbagai solusi teknologi informasi untuk mendukung transformasi digital bisnis Anda. Kami berkomitmen memberikan layanan yang handal, fleksibel, dan dikembangkan sesuai dengan kebutuhan klien.
 main:
   heading: Layanan tanpa kompromi
   description: >
@@ -42,7 +42,7 @@ testimonials:
       Layanannya sangat profesional dan responsif. Jaringan kantor kami sekarang jauh lebih stabil dan aman.
   - author: Citra Lestari
     quote: >-
-      Terima kasih Infinytech Net! Proses pengelolaan domain dan konsultasi IT-nya sangat membantu saat kami memulai bisnis online.
+      Terima kasih InfinytechNet! Proses pengelolaan domain dan konsultasi IT-nya sangat membantu saat kami memulai bisnis online.
 full_image: /img/itgambarwide.jpg
 pricing:
   heading: Paket layanan bulanan

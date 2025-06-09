@@ -2,16 +2,16 @@
 templateKey: index-page
 title: INFINYTECH.NET
 image: /img/TEKNOLOGI.jpg
-heading: Keutungan jika menggunakan layanan kami
+heading: Keutungan menggunakan layanan infinytechnet
 subheading: 
 mainpitch:
   title: SELAMAT DATANG DI WEBSITE INFINYTECHNET
   description: >
-    Selamat datang di Infinytech Net, solusi terpercaya untuk kebutuhan jaringan Anda! Kami menghadirkan layanan profesional di bidang Network Engineering, penyediaan domain lengkap DLL. Memastikan konektivitas yang stabil, aman, dan optimal untuk bisnis maupun kebutuhan.
+    infinytechnet adalah penyedia layanan profesional di bidang Network Engineering, pengelolaan infrastruktur jaringan, dan registrasi domain terpercaya. Kami menghadirkan solusi jaringan yang stabil, aman, dan berkinerja tinggi untuk bisnis, institusi, maupun kebutuhan personal.
 description: >-
-  Infinytech Net menawarkan layanan jaringan yang andal dengan performa maksimal, keamanan data terjamin, serta dukungan profesional yang siap membantu kapan saja. Kami menyediakan solusi lengkap, mulai dari pengelolaan jaringan hingga registrasi domain, dengan harga kompetitif untuk memastikan kebutuhan Anda terpenuhi secara efisien.
-subdescription:
-  Selain itu, kami selalu mengutamakan fleksibilitas layanan yang dapat disesuaikan dengan kebutuhan spesifik setiap klien. Dengan teknologi terkini dan pendekatan yang inovatif, kami memastikan setiap solusi yang kami tawarkan dapat meningkatkan efisiensi operasional Anda. Kepuasan pelanggan adalah prioritas utama kami, sehingga Anda bisa fokus mengembangkan bisnis tanpa perlu khawatir soal infrastruktur IT.
+  Dengan pengalaman dan dukungan teknis terbaik, infinytechnet memastikan sistem jaringan Anda berjalan optimal. Kami menawarkan layanan seperti instalasi jaringan, pemeliharaan server, pengaturan mikrotik, manajemen domain, hingga pengamanan data, semuanya dengan harga kompetitif dan pelayanan cepat.
+subdescription: >
+  Komitmen kami adalah memberikan layanan fleksibel dan scalable yang dapat disesuaikan dengan kebutuhan spesifik setiap klien. Infinytech Net mengutamakan teknologi terkini, efisiensi operasional, serta keamanan infrastruktur IT. Dengan dukungan profesional 24/7, kami hadir sebagai mitra andal untuk mendorong pertumbuhan bisnis Anda tanpa gangguan teknis.
 intro:
   blurbs:
     - image: /img/pemelihara.jpg
