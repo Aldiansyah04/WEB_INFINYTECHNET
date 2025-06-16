@@ -1,9 +1,9 @@
 ## Belajar membuat webseo
 
 link hasil nya uwu
-https://infinytechnet.netlify.app/
+https://www.infinytechnet.my.id/
 
-link nyomot web orang 
+link nyomot tempelate orang 
 git clone https://github.com/decaporg/gatsby-starter-decap-cms
 
 
