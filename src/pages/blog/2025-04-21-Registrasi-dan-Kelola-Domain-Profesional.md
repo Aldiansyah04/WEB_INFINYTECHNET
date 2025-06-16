@@ -6,11 +6,11 @@ featuredpost: true
 featuredimage: /img/domain.jpg
 description: Kelola identitas digital bisnismu dengan layanan registrasi domain cepat, aman, dan terpercaya dari InfinytechNet.
 tags:
-  - cara daftar domain go.id terbaru
-  - cara daftar domain go id terbaru
-  - cara daftar domain rilisan
-  - domain registration agreement
-  - domain registrar account
+  - identitas digital bisnis
+  - layanan domain aman dan cepat
+  - pendaftaran domain terpercaya
+  - domain untuk branding online
+  - penyedia domain profesional
 ---
 ![chemex](/img/domain.jpg)
 
