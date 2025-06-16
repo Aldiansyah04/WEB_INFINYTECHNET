@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "InfinyTechNet",
-    description:
-      "InfinyTechNet adalah perusahaan yang bergerak di bidang teknologi informasi, menyediakan layanan seperti pembuatan website, hosting website, dan solusi IT lainnya.",
+    description:"InfinyTechNet adalah perusahaan yang bergerak di bidang teknologi informasi, menyediakan layanan seperti pembuatan website, hosting website, dan solusi IT lainnya.",
+    author: "InfinyTechNet",
+    keywords: "InfinyTechNet, domain website, hosting website",
     url: "https://www.infinytechnet.my.id",
   },
   plugins: [

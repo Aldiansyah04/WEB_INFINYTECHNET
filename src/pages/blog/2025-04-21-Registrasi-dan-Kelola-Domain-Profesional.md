@@ -12,7 +12,7 @@ tags:
   - domain untuk branding online
   - penyedia domain profesional
 ---
-![chemex](/img/domain.jpg)
+![domain](/img/domain.jpg)
 
 Di era digital seperti sekarang, memiliki nama domain yang tepat adalah langkah awal untuk membangun kepercayaan dan branding online. Kami menyediakan layanan registrasi domain yang cepat, transparan, dan didukung oleh berbagai pilihan ekstensi seperti .com, .net, .id, .tech, dan lainnya.
 
