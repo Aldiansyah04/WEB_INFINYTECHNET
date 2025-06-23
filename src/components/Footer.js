@@ -31,12 +31,12 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Tentang
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Layanan
                       </Link>
                     </li>
                     {/* <li>

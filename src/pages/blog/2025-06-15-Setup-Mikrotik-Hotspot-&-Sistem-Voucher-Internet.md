@@ -6,11 +6,11 @@ featuredpost: true
 featuredimage: /img/mikrotik-hotspot.jpg
 description: Layanan instalasi Mikrotik Hotspot dan sistem login voucher untuk jaringan WiFi publik, warnet, kos, atau bisnis Anda.
 tags:
-  - hotspot mikrotik
-  - sistem voucher wifi
-  - login page hotspot
-  - jaringan kos dan cafe
-  - mikrotik RB setup
+  - setup mikrotik hotspot & sistem voucher internet
+  - mikrotik hotspot voucher generator
+  - mikrotik hotspot configuration mikhmon
+  - setting mikrotik rb951 untuk hotspot voucher
+  - setting mikrotik hotspot voucher
 ---
 ![mikrotik-hotspot](/img/mikrotik-hotspot.jpg)
 

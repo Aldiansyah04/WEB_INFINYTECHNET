@@ -16,13 +16,13 @@ intro:
   blurbs:
     - image: /img/pemelihara.jpg
       text: >
-        Managed IT Services – Pemeliharaan dan pengelolaan infrastruktur IT perusahaan, termasuk server, cloud, dan keamanan siber.
+        Managed IT Services – Pemeliharaan dan pengelolaan infrastruktur IT perusahaan, termasuk server, cloud, dan keamanan cyber.
     - image: /img/cloud.png
       text: >
         Cloud Computing Solutions – Penyediaan layanan cloud seperti VPS, hosting web, dan cloud storage.
     - image: /img/cyber.jpg
       text: >
-        Cybersecurity & Data Protection – Perlindungan terhadap serangan siber, firewall, enkripsi data, dan keamanan jaringan.
+        Cybersecurity & Data Protection – Perlindungan terhadap serangan cyber, firewall, enkripsi data, dan keamanan jaringan.
     - image: /img/consulting.jpg
       text: >
         IT Consulting & System Integration – Konsultasi teknologi untuk membantu bisnis mengoptimalkan sistem IT mereka.

@@ -6,11 +6,11 @@ featuredpost: true
 featuredimage: /img/network-setup.jpg
 description: Layanan instalasi jaringan berkualitas tinggi dari Infinytech Net untuk kantor, rumah, maupun instansi. Stabil, aman, dan dikonfigurasi sesuai kebutuhan.
 tags:
-  - instalasi jaringan LAN
-  - konfigurasi jaringan wireless
-  - jasa pasang jaringan mikrotik
-  - layanan setting router
-  - solusi jaringan kantor dan rumah
+  - instalasi dan konfigurasi jaringan profesional
+  - instalasi dan konfigurasi jaringan adalah
+  - instalasi dan konfigurasi server jaringan
+  - instalasi konfigurasi jaringan komputer
+  - instalasi dan konfigurasi jaringan sederhana
 ---
 ![network-setup](/img/network-setup.jpg)
 

@@ -6,11 +6,11 @@ featuredpost: true
 featuredimage: /img/domain.jpg
 description: Kelola identitas digital bisnismu dengan layanan registrasi domain cepat, aman, dan terpercaya dari InfinytechNet.
 tags:
-  - identitas digital bisnis
-  - layanan domain aman dan cepat
-  - pendaftaran domain terpercaya
-  - domain untuk branding online
-  - penyedia domain profesional
+  - registrasi dan kelola domain profesional
+  - cara daftar domain go.id terbaru ch *rilisan*
+  - register.domain.id
+  - kelola domain
+  - register domain go.id
 ---
 ![domain](/img/domain.jpg)
 
