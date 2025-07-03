@@ -7,10 +7,15 @@ featuredimage: /img/domain.jpg
 description: Kelola identitas digital bisnismu dengan layanan registrasi domain cepat, aman, dan terpercaya dari InfinytechNet.
 tags:
   - registrasi dan kelola domain profesional
-  - cara daftar domain go.id terbaru ch *rilisan*
+  - cara daftar domain go.id terbaru ch terbaru
   - register.domain.id
   - kelola domain
   - register domain go.id
+  - register domain or.id
+  - daftar-domain.co.id
+  - registrasi domain
+  - domain name registration adalah
+  - domain google.com diregistrasikan pada tanggal
 ---
 ![domain](/img/domain.jpg)
 

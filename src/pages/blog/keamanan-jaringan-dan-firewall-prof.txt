@@ -7,16 +7,11 @@ apa keamanan jaringan
 administrator keamanan jaringan
 firewall untuk keamanan jaringan
 keamanan jaringan firewall
-b. firewall
-3. sebutkan dan jelaskan best practice terkait dengan penggunaan firewall
-best practice terkait dengan penggunaan firewall
+---best practice terkait dengan penggunaan firewall
 apakah tugas dari firewall menurut cnd ec-council
 firewall security computer
 firewall windows defender
 firewall menurut cnd ec-council
-d. karakteristik firewall pada jaringan komputer
-firewall defense
-d. firewall
 daftar keamanan yang ditangani oleh firewall
 daftar keamanan suatu jaringan yang ditangani oleh firewall
 terkait dengan keamanan data / jaringan dengan firewall

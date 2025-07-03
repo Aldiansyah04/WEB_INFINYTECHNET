@@ -11,6 +11,11 @@ tags:
   - mikrotik hotspot configuration mikhmon
   - setting mikrotik rb951 untuk hotspot voucher
   - setting mikrotik hotspot voucher
+  - mikrotik configuration step by step
+  - cara setting mikrotik hotspot voucher
+  - cara setting mikrotik rb941-2nd untuk hotspot voucher
+  - cara setting mikrotik rb750gr3 untuk hotspot voucher
+  - cara setting mikrotik hotspot voucher dan design login page
 ---
 ![mikrotik-hotspot](/img/mikrotik-hotspot.jpg)
 

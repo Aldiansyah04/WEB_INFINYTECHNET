@@ -7,7 +7,7 @@ apa yang dimaksud dengan instalasi dan konfigurasi jaringan komputer
 instalasi dan konfigurasi jaringan
 instalasi dan konfigurasi adalah
 instalasi dan konfigurasi jaringan komputer
-instalasi dan konfigurasi jaringan berbasis soho
+---instalasi dan konfigurasi jaringan berbasis soho
 cara instalasi konfigurasi jaringan
 instalasi konfigurasi jaringan
 instalasi dan konfigurasi server

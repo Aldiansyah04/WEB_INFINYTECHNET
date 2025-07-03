@@ -11,6 +11,11 @@ tags:
   - keamanan jaringan dan firewall
   - keamanan jaringan menggunakan firewall
   - keamanan jaringan server
+  - apa keamanan jaringan
+  - administrator keamanan jaringan
+  - firewall untuk keamanan jaringan
+  - keamanan jaringan firewall
+  - best practice terkait dengan penggunaan firewall
 ---
 
 ![firewall-security](/img/firewall-security.jpg)

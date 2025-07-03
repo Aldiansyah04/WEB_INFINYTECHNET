@@ -11,6 +11,12 @@ tags:
   - instalasi dan konfigurasi server jaringan
   - instalasi konfigurasi jaringan komputer
   - instalasi dan konfigurasi jaringan sederhana
+  - apa yang dimaksud dengan instalasi dan konfigurasi jaringan komputer
+  - instalasi dan konfigurasi jaringan
+  - instalasi dan konfigurasi adalah
+  - instalasi dan konfigurasi jaringan komputer
+  - instalasi dan konfigurasi jaringan berbasis soh
+  - 
 ---
 ![network-setup](/img/network-setup.jpg)
 
