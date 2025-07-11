@@ -3,8 +3,8 @@ module.exports = {
     title: "InfinyTechNet",
     description:"InfinyTechNet adalah perusahaan yang bergerak di bidang teknologi informasi, menyediakan layanan seperti pembuatan website, hosting website, dan solusi IT lainnya.",
     author: "InfinyTechNet",
-    keywords: "InfinyTechNet, domain website, hosting website",
-    url: "https://www.infinytechnet.my.id",
+    keywords: "InfinyTechNet, Register domain name, Hosting website",
+    siteUrl: "https://www.infinytechnet.my.id", // GANTI url -> siteUrl
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -78,6 +78,14 @@ module.exports = {
         printRejected: true,
       },
     }, // must be after other CSS plugins
+
+    { //sitemap plugin
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        output: "/sitemap.xml",
+        // exclude: ["/admin/*"], // jika ingin mengecualikan halaman tertentu
+      },
+    }, // sitemap plugin
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
