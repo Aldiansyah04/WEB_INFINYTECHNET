@@ -74,14 +74,14 @@ const Footer = () => {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://www.facebook.com/AretaCollege">
+                <a title="facebook" href="https://www.facebook.com/infinytechnet">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
-                <a title="twitter" href="https://x.com/aretacollege">
+                <a title="twitter" href="https://x.com/infinytechnet">
                   <img
                     className="fas fa-lg"
                     src={twitter}
